@@ -1,0 +1,2 @@
+addons
+ofxBeat
